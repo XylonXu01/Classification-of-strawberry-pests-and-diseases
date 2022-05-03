@@ -2,7 +2,7 @@
 
 ## 本项目使用深度学习模型对草莓病虫害疾病进行识别
 
-## 项目代码参考地址
+## 项目部分代码参考地址
 
 <https://github.com/WZMIAOMIAO/deep-learning-for-image-processing>
 
