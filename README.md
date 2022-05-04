@@ -20,7 +20,6 @@
   ├── Vision_Transformer:手动调参的Vision Transformer模型代码（TensorFlow）
   ├── data_processing:对爬虫下来的图片进行处理的代码
   ├── AutoGluon.ipynb:自动调参的模型代码
-  ├── AutoGluon.ipynb:自动调参的模型代码
   └── CNN_Model.ipynb:ResNet50、VGG、Googlenet模型的手动调参代码（Keras）
 ```
 
